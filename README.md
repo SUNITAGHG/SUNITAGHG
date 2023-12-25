@@ -8,7 +8,7 @@
 
 ## 💼 Technical Skills
 
-- **Programming Languages:** Python, ** C++
+- **Programming Languages:** Python, C++
 - **Data Science:** Machine Learning, Data Analytics, NLTK & COMPUTER VISION
 - **Web Development:** HTML, CSS, JavaScript
 - **Frameworks:** Flask
