@@ -13,7 +13,7 @@
 - **Web Development:** HTML, CSS, JavaScript
 - **Frameworks:** Flask
 - **Libraries:** Pandas, NumPy, Seaborn, scify....
-- **Database Management:**MYSQL, **SQLLITE
+- **Database Management:MYSQL, SQLLITE
   
 ## 🚀 Current Project
 
